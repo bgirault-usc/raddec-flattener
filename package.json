@@ -1,0 +1,38 @@
+{
+  "name": "raddec-flattener",
+  "homepage": "https://github.com/bgirault-usc/raddec-flattener/",
+  "author": {
+    "name": "Benjamin Girault",
+    "email": "benjamin.girault@usc.edu"
+  },
+  "description": "",
+  "keywords": [
+    "reelyActive",
+    "IoT",
+    "RFID",
+    "RTLS",
+    "M2M",
+    "library"
+  ],
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "main": "./lib/raddecflattener.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bgirault-usc/raddec-flattener.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "bugs": {
+    "url": "https://github.com/bgirault-usc/raddec-flattener/issues"
+  },
+  "contributors": [
+    { "name": "Benjamin Girault" }
+  ],
+  "license": "MIT"
+}
